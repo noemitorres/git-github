@@ -6,7 +6,7 @@ This is a github practicing page.  Testing new commits.
 - First list item
 - First nested list item
 
-First Header  | Second Header
+List of Scripts  | Purpose
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cel
